@@ -1,0 +1,84 @@
+{
+    "4b1c434a-d600-4c92-9c68-58c2fe2f579d": {
+        "auto": true,
+        "contexts": [],
+        "events": [],
+        "fallbackIntent": true,
+        "followUpIntents": [],
+        "id": "4b1c434a-d600-4c92-9c68-58c2fe2f579d",
+        "name": "Default Fallback Intent",
+        "priority": 500000,
+        "responses": [
+            {
+                "action": "input.unknown",
+                "affectedContexts": [],
+                "defaultResponsePlatforms": {},
+                "messages": [
+                    {
+                        "speech": [
+                            "Jag hörde inte. Kan du säga det igen?",
+                            "Jag hörde inte vad du sa. Kan du säga det igen?",
+                            "Skulle du kunna säga det igen?",
+                            "Ursäkta, kan du säga det igen?",
+                            "Kan du säga det igen?",
+                            "Jag hörde inte.",
+                            "Jag hörde tyvärr inte.",
+                            "Vad sa du?",
+                            "Kan du upprepa det?",
+                            "Va?",
+                            "Jag hörde inte.",
+                            "Jag uppfattade inte vad du sa."
+                        ],
+                        "type": 0
+                    }
+                ],
+                "parameters": [],
+                "resetContexts": false,
+                "speech": []
+            }
+        ],
+        "templates": [],
+        "userSays": [],
+        "webhookForSlotFilling": false,
+        "webhookUsed": false
+    },
+    "c8f081ec-de30-406e-951d-9c1cfb0debc5": {
+        "auto": true,
+        "contexts": [],
+        "events": [
+            {
+                "name": "WELCOME"
+            }
+        ],
+        "fallbackIntent": false,
+        "followUpIntents": [],
+        "id": "c8f081ec-de30-406e-951d-9c1cfb0debc5",
+        "name": "Default Welcome Intent",
+        "priority": 500000,
+        "responses": [
+            {
+                "action": "input.welcome",
+                "affectedContexts": [],
+                "defaultResponsePlatforms": {},
+                "messages": [
+                    {
+                        "speech": [
+                            "Hallå!",
+                            "Hej!",
+                            "Hej hej!",
+                            "Hejsan!"
+                        ],
+                        "type": 0
+                    }
+                ],
+                "parameters": [],
+                "resetContexts": false,
+                "speech": []
+            }
+        ],
+        "templates": [],
+        "userSays": [],
+        "webhookForSlotFilling": false,
+        "webhookUsed": false
+    }
+}
