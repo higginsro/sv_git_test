@@ -1,5 +1,140 @@
 {
-    "210959ad-0550-47cd-8c91-4bab97c86111": {
+    "12565691-6bff-44d0-a5c4-b7ed988039a4": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "in my city",
+                    "i min stad"
+                ],
+                "value": "in my city"
+            },
+            {
+                "synonyms": [
+                    "most expensive",
+                    "expensive",
+                    "dyraste",
+                    "dyr"
+                ],
+                "value": "expensive"
+            },
+            {
+                "synonyms": [
+                    "cheapest",
+                    "cheap",
+                    "less expensive",
+                    "best priced",
+                    "billigaste",
+                    "billig",
+                    "billigare",
+                    "bäst prissatta"
+                ],
+                "value": "cheapest"
+            },
+            {
+                "synonyms": [
+                    "nearest",
+                    "closest",
+                    "nearby",
+                    "near me",
+                    "near by",
+                    "in my location",
+                    "in this district",
+                    "in the area",
+                    "in my area",
+                    "on my way",
+                    "at my destination",
+                    "close by",
+                    "nearbys",
+                    "along my route",
+                    "in my neighborhood",
+                    "around me",
+                    "immediate",
+                    "in this area",
+                    "around here",
+                    "local",
+                    "close to me",
+                    "here",
+                    "closest to me",
+                    "very close",
+                    "near my house",
+                    "near this area",
+                    "near",
+                    "around my area",
+                    "around",
+                    "close to my area",
+                    "this area",
+                    "not far from here",
+                    "närmast",
+                    "närliggande",
+                    "i närheten av",
+                    "på min plats",
+                    "i detta distrikt",
+                    "i området",
+                    "i mitt område",
+                    "på väg",
+                    "på min destination",
+                    "nära",
+                    "längs min väg",
+                    "i mitt grannskap",
+                    "omkring mig",
+                    "lokal",
+                    "nära mig",
+                    "här",
+                    "närmast mig",
+                    "väldigt nära",
+                    "nära mitt hus",
+                    "nära detta område",
+                    "nära",
+                    "runt mitt område",
+                    "runt",
+                    "nära mitt område",
+                    "detta område",
+                    "inte långt härifrån"
+                ],
+                "value": "nearest"
+            },
+            {
+                "synonyms": [
+                    "free",
+                    "fri"
+                ],
+                "value": "free"
+            },
+            {
+                "synonyms": [
+                    "best matched",
+                    "bäst matchade"
+                ],
+                "value": "best matched"
+            },
+            {
+                "synonyms": [
+                    "best",
+                    "top",
+                    "good",
+                    "nice",
+                    "great",
+                    "cool",
+                    "fine",
+                    "interesting",
+                    "bäst",
+                    "topp",
+                    "Bra",
+                    "trevlig",
+                    "bra",
+                    "Häftigt",
+                    "intressant"
+                ],
+                "value": "best"
+            }
+        ],
+        "id": "12565691-6bff-44d0-a5c4-b7ed988039a4",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "map-sort"
+    },
+    "149c0943-2d11-484d-8523-58195ac1663b": {
         "automatedExpansion": false,
         "entries": [
             {
@@ -27,12 +162,42 @@
                 "value": "false"
             }
         ],
-        "id": "210959ad-0550-47cd-8c91-4bab97c86111",
+        "id": "149c0943-2d11-484d-8523-58195ac1663b",
         "isEnum": false,
         "isOverridable": true,
         "name": "one_way_bool"
     },
-    "24a8d04e-efc3-478e-b3ae-06bc612ea6e6": {
+    "34e9bf7b-decc-48e0-816e-1aa747ebe2d9": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "nonstop",
+                    "non stop",
+                    "non-stop",
+                    "without stops",
+                    "without stop",
+                    "without stoping",
+                    "direct",
+                    "without layover",
+                    "no layover",
+                    "oavbrutet",
+                    "utan stopp",
+                    "utan att stanna",
+                    "direkt",
+                    "utan layover",
+                    "ingen layover",
+                    "oupphörliga"
+                ],
+                "value": "true"
+            }
+        ],
+        "id": "34e9bf7b-decc-48e0-816e-1aa747ebe2d9",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "nonstop"
+    },
+    "44caf390-5b55-404d-97d2-f4b5cde88134": {
         "automatedExpansion": false,
         "entries": [
             {
@@ -60,12 +225,73 @@
                 "value": "Yes"
             }
         ],
-        "id": "24a8d04e-efc3-478e-b3ae-06bc612ea6e6",
+        "id": "44caf390-5b55-404d-97d2-f4b5cde88134",
         "isEnum": false,
         "isOverridable": true,
         "name": "othernames"
     },
-    "53991b52-39fb-41d7-98c5-71e15c3f0b0a": {
+    "4520e066-7daa-4d3b-b777-fdadcc906ae8": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "business",
+                    "business klass",
+                    "företag"
+                ],
+                "value": "business"
+            },
+            {
+                "synonyms": [
+                    "premium ekonomi",
+                    "premium ekonomi klass",
+                    "premiumklass",
+                    "premie"
+                ],
+                "value": "premium ekonomi"
+            },
+            {
+                "synonyms": [
+                    "först",
+                    "första klass",
+                    "första"
+                ],
+                "value": "första klass"
+            },
+            {
+                "synonyms": [
+                    "eco",
+                    "ekonomi",
+                    "ekonomiklass",
+                    "ekonomi klass"
+                ],
+                "value": "ekonomi"
+            }
+        ],
+        "id": "4520e066-7daa-4d3b-b777-fdadcc906ae8",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "class"
+    },
+    "6680dbc2-5e3f-4327-aa08-a97ea9b3eb91": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "with refund",
+                    "refundable",
+                    "med återbetalning",
+                    "betalas"
+                ],
+                "value": "true"
+            }
+        ],
+        "id": "6680dbc2-5e3f-4327-aa08-a97ea9b3eb91",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "refundable"
+    },
+    "7b93eabd-8e65-4bc7-960f-a32a0914bc43": {
         "automatedExpansion": false,
         "entries": [
             {
@@ -81025,259 +81251,12 @@
                 "value": "XPC"
             }
         ],
-        "id": "53991b52-39fb-41d7-98c5-71e15c3f0b0a",
+        "id": "7b93eabd-8e65-4bc7-960f-a32a0914bc43",
         "isEnum": false,
         "isOverridable": true,
         "name": "airport"
     },
-    "87968a74-cb5a-41a7-8bf4-5afa7d5d9299": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "nonstop",
-                    "non stop",
-                    "non-stop",
-                    "without stops",
-                    "without stop",
-                    "without stoping",
-                    "direct",
-                    "without layover",
-                    "no layover",
-                    "oavbrutet",
-                    "utan stopp",
-                    "utan att stanna",
-                    "direkt",
-                    "utan layover",
-                    "ingen layover",
-                    "oupphörliga"
-                ],
-                "value": "true"
-            }
-        ],
-        "id": "87968a74-cb5a-41a7-8bf4-5afa7d5d9299",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "nonstop"
-    },
-    "b4540042-c307-4692-a57d-594fc1ef88df": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "business",
-                    "business klass",
-                    "företag"
-                ],
-                "value": "business"
-            },
-            {
-                "synonyms": [
-                    "premium ekonomi",
-                    "premium ekonomi klass",
-                    "premiumklass",
-                    "premie"
-                ],
-                "value": "premium ekonomi"
-            },
-            {
-                "synonyms": [
-                    "först",
-                    "första klass",
-                    "första"
-                ],
-                "value": "första klass"
-            },
-            {
-                "synonyms": [
-                    "eco",
-                    "ekonomi",
-                    "ekonomiklass",
-                    "ekonomi klass"
-                ],
-                "value": "ekonomi"
-            }
-        ],
-        "id": "b4540042-c307-4692-a57d-594fc1ef88df",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "class"
-    },
-    "b707fbcb-8e2e-4265-ab38-9ce5c59172fa": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "oneway",
-                    "one way",
-                    "one-way",
-                    "without return",
-                    "Enkel",
-                    "utan retur",
-                    "enkelresa"
-                ],
-                "value": "enkelresa"
-            }
-        ],
-        "id": "b707fbcb-8e2e-4265-ab38-9ce5c59172fa",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "ticket-type"
-    },
-    "ce49bc6d-cc49-4ef2-b355-79abd766697b": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "in my city",
-                    "i min stad"
-                ],
-                "value": "in my city"
-            },
-            {
-                "synonyms": [
-                    "most expensive",
-                    "expensive",
-                    "dyraste",
-                    "dyr"
-                ],
-                "value": "expensive"
-            },
-            {
-                "synonyms": [
-                    "cheapest",
-                    "cheap",
-                    "less expensive",
-                    "best priced",
-                    "billigaste",
-                    "billig",
-                    "billigare",
-                    "bäst prissatta"
-                ],
-                "value": "cheapest"
-            },
-            {
-                "synonyms": [
-                    "nearest",
-                    "closest",
-                    "nearby",
-                    "near me",
-                    "near by",
-                    "in my location",
-                    "in this district",
-                    "in the area",
-                    "in my area",
-                    "on my way",
-                    "at my destination",
-                    "close by",
-                    "nearbys",
-                    "along my route",
-                    "in my neighborhood",
-                    "around me",
-                    "immediate",
-                    "in this area",
-                    "around here",
-                    "local",
-                    "close to me",
-                    "here",
-                    "closest to me",
-                    "very close",
-                    "near my house",
-                    "near this area",
-                    "near",
-                    "around my area",
-                    "around",
-                    "close to my area",
-                    "this area",
-                    "not far from here",
-                    "närmast",
-                    "närliggande",
-                    "i närheten av",
-                    "på min plats",
-                    "i detta distrikt",
-                    "i området",
-                    "i mitt område",
-                    "på väg",
-                    "på min destination",
-                    "nära",
-                    "längs min väg",
-                    "i mitt grannskap",
-                    "omkring mig",
-                    "lokal",
-                    "nära mig",
-                    "här",
-                    "närmast mig",
-                    "väldigt nära",
-                    "nära mitt hus",
-                    "nära detta område",
-                    "nära",
-                    "runt mitt område",
-                    "runt",
-                    "nära mitt område",
-                    "detta område",
-                    "inte långt härifrån"
-                ],
-                "value": "nearest"
-            },
-            {
-                "synonyms": [
-                    "free",
-                    "fri"
-                ],
-                "value": "free"
-            },
-            {
-                "synonyms": [
-                    "best matched",
-                    "bäst matchade"
-                ],
-                "value": "best matched"
-            },
-            {
-                "synonyms": [
-                    "best",
-                    "top",
-                    "good",
-                    "nice",
-                    "great",
-                    "cool",
-                    "fine",
-                    "interesting",
-                    "bäst",
-                    "topp",
-                    "Bra",
-                    "trevlig",
-                    "bra",
-                    "Häftigt",
-                    "intressant"
-                ],
-                "value": "best"
-            }
-        ],
-        "id": "ce49bc6d-cc49-4ef2-b355-79abd766697b",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "map-sort"
-    },
-    "dfff92f0-d8bf-47c9-a24a-211e647b1857": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "with refund",
-                    "refundable",
-                    "med återbetalning",
-                    "betalas"
-                ],
-                "value": "true"
-            }
-        ],
-        "id": "dfff92f0-d8bf-47c9-a24a-211e647b1857",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "refundable"
-    },
-    "e303e65c-84f0-4a22-9f49-2401e0e93764": {
+    "a01a641a-7490-4203-880b-53f1eebf7c7e": {
         "automatedExpansion": false,
         "entries": [
             {
@@ -88620,9 +88599,30 @@
                 "value": "Cargo Plus Aviation"
             }
         ],
-        "id": "e303e65c-84f0-4a22-9f49-2401e0e93764",
+        "id": "a01a641a-7490-4203-880b-53f1eebf7c7e",
         "isEnum": false,
         "isOverridable": true,
         "name": "airline"
+    },
+    "b7b9ced9-5253-44fd-92a6-4138a8171dc4": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "oneway",
+                    "one way",
+                    "one-way",
+                    "without return",
+                    "Enkel",
+                    "utan retur",
+                    "enkelresa"
+                ],
+                "value": "enkelresa"
+            }
+        ],
+        "id": "b7b9ced9-5253-44fd-92a6-4138a8171dc4",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "ticket-type"
     }
 }
