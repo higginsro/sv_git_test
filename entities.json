@@ -1,5 +1,56 @@
 {
-    "12565691-6bff-44d0-a5c4-b7ed988039a4": {
+    "1542bb9a-da1e-401d-99a7-df469e857727": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "no",
+                    "nope",
+                    "n",
+                    "none",
+                    "nah",
+                    "Nej",
+                    "ingen"
+                ],
+                "value": "No"
+            },
+            {
+                "synonyms": [
+                    "yes",
+                    "yes",
+                    "y",
+                    "yup",
+                    "yeah",
+                    "ja",
+                    "Japp"
+                ],
+                "value": "Yes"
+            }
+        ],
+        "id": "1542bb9a-da1e-401d-99a7-df469e857727",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "othernames"
+    },
+    "2f88a965-1d6e-4ed5-a588-be8ab9a74615": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "with refund",
+                    "refundable",
+                    "med återbetalning",
+                    "betalas"
+                ],
+                "value": "true"
+            }
+        ],
+        "id": "2f88a965-1d6e-4ed5-a588-be8ab9a74615",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "refundable"
+    },
+    "5d4a706f-57c5-4377-a34b-982e9572acc0": {
         "automatedExpansion": false,
         "entries": [
             {
@@ -129,45 +180,12 @@
                 "value": "best"
             }
         ],
-        "id": "12565691-6bff-44d0-a5c4-b7ed988039a4",
+        "id": "5d4a706f-57c5-4377-a34b-982e9572acc0",
         "isEnum": false,
         "isOverridable": true,
         "name": "map-sort"
     },
-    "149c0943-2d11-484d-8523-58195ac1663b": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "true",
-                    "1",
-                    "yes",
-                    "affirmative",
-                    "Sann",
-                    "ja",
-                    "korrekt"
-                ],
-                "value": "true"
-            },
-            {
-                "synonyms": [
-                    "no",
-                    "0",
-                    "false",
-                    "negative",
-                    "Nej",
-                    "falsk",
-                    "negativ"
-                ],
-                "value": "false"
-            }
-        ],
-        "id": "149c0943-2d11-484d-8523-58195ac1663b",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "one_way_bool"
-    },
-    "34e9bf7b-decc-48e0-816e-1aa747ebe2d9": {
+    "69785231-905b-4833-943b-c6034c9e4db5": {
         "automatedExpansion": false,
         "entries": [
             {
@@ -192,106 +210,33 @@
                 "value": "true"
             }
         ],
-        "id": "34e9bf7b-decc-48e0-816e-1aa747ebe2d9",
+        "id": "69785231-905b-4833-943b-c6034c9e4db5",
         "isEnum": false,
         "isOverridable": true,
         "name": "nonstop"
     },
-    "44caf390-5b55-404d-97d2-f4b5cde88134": {
+    "7aea08da-6a4f-4812-8317-bbb17d0412d7": {
         "automatedExpansion": false,
         "entries": [
             {
                 "synonyms": [
-                    "no",
-                    "nope",
-                    "n",
-                    "none",
-                    "nah",
-                    "Nej",
-                    "ingen"
+                    "oneway",
+                    "one way",
+                    "one-way",
+                    "without return",
+                    "Enkel",
+                    "utan retur",
+                    "enkelresa"
                 ],
-                "value": "No"
-            },
-            {
-                "synonyms": [
-                    "yes",
-                    "yes",
-                    "y",
-                    "yup",
-                    "yeah",
-                    "ja",
-                    "Japp"
-                ],
-                "value": "Yes"
+                "value": "enkelresa"
             }
         ],
-        "id": "44caf390-5b55-404d-97d2-f4b5cde88134",
+        "id": "7aea08da-6a4f-4812-8317-bbb17d0412d7",
         "isEnum": false,
         "isOverridable": true,
-        "name": "othernames"
+        "name": "ticket-type"
     },
-    "4520e066-7daa-4d3b-b777-fdadcc906ae8": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "business",
-                    "business klass",
-                    "företag"
-                ],
-                "value": "business"
-            },
-            {
-                "synonyms": [
-                    "premium ekonomi",
-                    "premium ekonomi klass",
-                    "premiumklass",
-                    "premie"
-                ],
-                "value": "premium ekonomi"
-            },
-            {
-                "synonyms": [
-                    "först",
-                    "första klass",
-                    "första"
-                ],
-                "value": "första klass"
-            },
-            {
-                "synonyms": [
-                    "eco",
-                    "ekonomi",
-                    "ekonomiklass",
-                    "ekonomi klass"
-                ],
-                "value": "ekonomi"
-            }
-        ],
-        "id": "4520e066-7daa-4d3b-b777-fdadcc906ae8",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "class"
-    },
-    "6680dbc2-5e3f-4327-aa08-a97ea9b3eb91": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "with refund",
-                    "refundable",
-                    "med återbetalning",
-                    "betalas"
-                ],
-                "value": "true"
-            }
-        ],
-        "id": "6680dbc2-5e3f-4327-aa08-a97ea9b3eb91",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "refundable"
-    },
-    "7b93eabd-8e65-4bc7-960f-a32a0914bc43": {
+    "9ea94b17-d2d8-4b99-b090-d9a6b5b43f79": {
         "automatedExpansion": false,
         "entries": [
             {
@@ -81251,12 +81196,88 @@
                 "value": "XPC"
             }
         ],
-        "id": "7b93eabd-8e65-4bc7-960f-a32a0914bc43",
+        "id": "9ea94b17-d2d8-4b99-b090-d9a6b5b43f79",
         "isEnum": false,
         "isOverridable": true,
         "name": "airport"
     },
-    "a01a641a-7490-4203-880b-53f1eebf7c7e": {
+    "a527ac00-7a8b-48a3-a4ee-d427a05b36f2": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "business",
+                    "business klass",
+                    "företag"
+                ],
+                "value": "business"
+            },
+            {
+                "synonyms": [
+                    "premium ekonomi",
+                    "premium ekonomi klass",
+                    "premiumklass",
+                    "premie"
+                ],
+                "value": "premium ekonomi"
+            },
+            {
+                "synonyms": [
+                    "först",
+                    "första klass",
+                    "första"
+                ],
+                "value": "första klass"
+            },
+            {
+                "synonyms": [
+                    "eco",
+                    "ekonomi",
+                    "ekonomiklass",
+                    "ekonomi klass"
+                ],
+                "value": "ekonomi"
+            }
+        ],
+        "id": "a527ac00-7a8b-48a3-a4ee-d427a05b36f2",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "class"
+    },
+    "afd349e6-5a50-40e3-a449-947944e3e21a": {
+        "automatedExpansion": false,
+        "entries": [
+            {
+                "synonyms": [
+                    "true",
+                    "1",
+                    "yes",
+                    "affirmative",
+                    "Sann",
+                    "ja",
+                    "korrekt"
+                ],
+                "value": "true"
+            },
+            {
+                "synonyms": [
+                    "no",
+                    "0",
+                    "false",
+                    "negative",
+                    "Nej",
+                    "falsk",
+                    "negativ"
+                ],
+                "value": "false"
+            }
+        ],
+        "id": "afd349e6-5a50-40e3-a449-947944e3e21a",
+        "isEnum": false,
+        "isOverridable": true,
+        "name": "one_way_bool"
+    },
+    "d64359a9-9bc5-465a-aaae-feaf04612ac1": {
         "automatedExpansion": false,
         "entries": [
             {
@@ -88599,30 +88620,9 @@
                 "value": "Cargo Plus Aviation"
             }
         ],
-        "id": "a01a641a-7490-4203-880b-53f1eebf7c7e",
+        "id": "d64359a9-9bc5-465a-aaae-feaf04612ac1",
         "isEnum": false,
         "isOverridable": true,
         "name": "airline"
-    },
-    "b7b9ced9-5253-44fd-92a6-4138a8171dc4": {
-        "automatedExpansion": false,
-        "entries": [
-            {
-                "synonyms": [
-                    "oneway",
-                    "one way",
-                    "one-way",
-                    "without return",
-                    "Enkel",
-                    "utan retur",
-                    "enkelresa"
-                ],
-                "value": "enkelresa"
-            }
-        ],
-        "id": "b7b9ced9-5253-44fd-92a6-4138a8171dc4",
-        "isEnum": false,
-        "isOverridable": true,
-        "name": "ticket-type"
     }
 }
